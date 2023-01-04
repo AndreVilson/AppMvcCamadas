@@ -179,3 +179,5 @@ C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\V
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\libman.json
+C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
+C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
