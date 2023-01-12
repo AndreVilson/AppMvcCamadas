@@ -182,3 +182,5 @@ C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\libman.
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
+C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\appsettings.Staging.json
