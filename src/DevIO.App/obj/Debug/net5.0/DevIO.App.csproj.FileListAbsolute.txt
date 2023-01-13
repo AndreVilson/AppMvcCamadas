@@ -184,3 +184,5 @@ C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\V
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\appsettings.Production.json
 C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\andre\source\repos\AppMvcCamadas\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
