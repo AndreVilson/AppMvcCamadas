@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace DevIO.App.Configurations
 {
@@ -25,6 +26,8 @@ namespace DevIO.App.Configurations
                 o.ModelBindingMessageProvider.SetValueIsInvalidAccessor(x => invalidValueMsg);
                 o.ModelBindingMessageProvider.SetValueMustBeANumberAccessor(x => beNumericMsg);
                 o.ModelBindingMessageProvider.SetValueMustNotBeNullAccessor(x => requiredValueMsg);
+
+                o.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
             })
                 .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0);
 
